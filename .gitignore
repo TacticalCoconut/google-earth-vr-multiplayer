@@ -1,0 +1,14 @@
+# Build outputs and compiler intermediates
+build/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.exe
+
+# Temporary capture frames and logs
+frame_act*.png
+*.log
+earthvr_mp.log
+earthvr_mp_bans.txt
